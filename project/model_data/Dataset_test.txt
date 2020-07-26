@@ -1,0 +1,357 @@
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/08d2eed131f4b5d9.jpg 0,0,226,223,0 2,231,183,463,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/096ca56a5c51f6d6.jpg 0,1,1024,683,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/10628bb9eeafafbb.jpg 161,291,416,526,0 351,403,654,753,0 374,0,844,437,0 654,390,957,685,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/123c5bfc13f1c62d.jpg 250,88,775,620,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/12fb96c87a65c542.jpg 107,146,679,723,0 542,333,928,762,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/13628bbfec1fe2c3.jpg 211,226,492,539,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/13c317f605023811.jpg 0,0,768,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/1544ceba214932cb.jpg 11,790,92,863,0 113,102,178,169,0 158,56,236,126,0 207,737,285,798,0 230,621,278,664,0 310,529,359,584,0 339,285,389,344,0 361,517,428,577,0 537,832,582,900,0 561,761,632,833,0 693,27,739,71,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/1843a54af7b109e3.jpg 24,73,524,554,0 469,134,1005,655,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/1a30ad94ee250562.jpg 0,0,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/1b8b2f1fc532cc6d.jpg 48,60,688,673,0 843,394,1024,604,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/1dcf7908c7b0db7c.jpg 0,0,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/24a7d30dc785da1d.jpg 118,110,845,571,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/268675cedf27742e.jpg 0,0,5177,3456,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/271c873c73743121.jpg 0,0,1024,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/2b748f85a4fe0eb3.jpg 87,578,323,815,0 148,251,362,485,0 305,34,535,283,0 378,360,611,595,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/2cb9c8efddb5e42f.jpg 268,70,751,612,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/2ec0a7d75406b894.jpg 2,0,81,43,0 278,97,822,633,0 330,607,351,631,0 375,720,394,742,0 418,645,433,662,0 500,717,516,754,0 561,33,647,94,0 771,0,834,90,0 778,165,890,289,0 836,2,1023,258,0 1003,272,1023,380,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/368b586beec4c1a4.jpg 255,151,711,613,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/38ad44fc3223245e.jpg 339,188,673,553,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/3ae432176001fcca.jpg 1,157,1023,682,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/3ee1b0da78f43975.jpg 214,507,465,802,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/40c73b1bdcf351ed.jpg 0,0,683,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/4191193b13f43ec9.jpg 0,261,557,1023,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/44749496c016708d.jpg 467,279,1013,793,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/489785870d3d99fd.jpg 133,136,845,868,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/48c64de65f175030.jpg 0,0,351,258,0 161,118,816,691,0 357,1,609,131,0 536,1,910,292,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/4a1d38b90f2b8c95.jpg 28,319,209,502,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/4b51aad1fe82be44.jpg 54,1,1024,688,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/4f9d3f3c5799a974.jpg 20,103,535,668,0 492,54,1004,786,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/504eaba8aead7bd8.jpg 70,88,758,982,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/54da4e8f150739d6.jpg 0,0,240,873,0 124,0,539,852,0 337,0,509,128,0 346,57,535,226,0 388,191,598,362,0 451,305,653,505,0 525,12,692,136,0 562,80,743,238,0 613,600,853,851,0 613,199,1021,658,0 708,21,859,134,0 744,104,919,243,0 892,608,1023,851,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/57783c2ab99d0ede.jpg 0,288,402,750,0 151,2,286,133,0 248,3,560,268,0 345,90,762,524,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/580308b950c6d0eb.jpg 308,128,528,361,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/592180124eb246e1.jpg 141,17,901,753,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/597f27f1d0bb088a.jpg 0,0,625,717,0 440,285,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/5bed6fc231e0168f.jpg 212,57,777,626,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/60e323b9155aeab8.jpg 560,462,1024,680,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/6210a76fd0d0965d.jpg 0,1,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/62d100326bad961a.jpg 8,120,314,391,0 244,296,508,564,0 320,1,571,223,0 492,248,734,476,0 600,1,884,288,0 650,400,1005,751,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/639d975913a1aa8c.jpg 0,40,1024,765,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/63e3f21bf59b88d8.jpg 0,0,1024,815,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/64afa7b88dc8b6ab.jpg 311,165,703,559,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/6c33f0ce6183e74a.jpg 71,76,960,679,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/6e3b69ea7f539ba7.jpg 47,78,809,837,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/6f1f794c23e34a75.jpg 65,330,693,884,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/739da9eb562b910c.jpg 30,453,292,654,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/73c9dc4837915366.jpg 0,0,1024,681,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/75bf4fe9b26565e9.jpg 0,261,915,900,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/7c5c73943bb31a57.jpg 0,0,1024,680,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/7ec0563820191541.jpg 116,130,648,654,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/7f015366e5da07a6.jpg 1,433,784,971,0 214,217,551,563,0 500,165,1019,546,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/7f5a30978d018d2f.jpg 149,167,841,714,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/81cad76cc1e6950b.jpg 142,58,999,886,0 446,0,689,127,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/86cb54fdd7a6e20b.jpg 209,23,813,648,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/87eb61aff5425f3e.jpg 0,0,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/89fe933a24a773ce.jpg 239,40,423,235,0 432,38,626,249,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/8b072310e73add00.jpg 63,462,287,740,0 185,246,462,556,0 208,521,515,846,0 401,475,612,735,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/8b8e4fd1f51c249d.jpg 1,80,1024,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/8fa79acb97f1b7bb.jpg 77,354,380,556,0 480,396,766,624,0 663,300,907,537,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/9737ccbf5f908064.jpg 0,235,42,414,0 2,32,143,267,0 117,0,357,197,0 356,0,569,113,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/9823c06df5c43392.jpg 0,0,767,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/9be9174b13d6d0c7.jpg 0,11,1016,681,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/9cdd30e74b74b80f.jpg 246,82,765,685,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/9ebc4544e2ef3c0c.jpg 233,862,415,974,0 299,481,558,715,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/a5e04767fb8b0afa.jpg 205,343,720,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/a66332a881d018ec.jpg 0,0,1023,660,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/a741179a0cf5aab0.jpg 639,0,998,362,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ab4a45d68690aa0e.jpg 161,167,626,576,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ad9a41a222faef4c.jpg 108,220,530,569,0 476,56,872,433,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/b1a6096b82680b08.jpg 0,30,299,692,0 0,582,551,764,0 293,0,1024,724,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/b3e9352cb0ef77d2.jpg 0,116,1023,531,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/b6024eea086419a9.jpg 294,339,477,515,0 461,73,638,270,0 502,463,705,655,0 623,137,834,317,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/b787b7aa4407e39a.jpg 0,0,1024,683,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ba813e858a702b5a.jpg 126,172,1024,608,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/bb199b34c5805576.jpg 19,348,607,895,0 520,221,1011,687,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/be6590de27a1a8ef.jpg 0,18,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/c097b6e1ae80fc02.jpg 0,316,768,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/c6d837e74eccd9a0.jpg 90,70,783,657,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/c77a05909b5807c5.jpg 0,54,98,172,0 0,228,104,317,0 0,0,199,53,0 0,312,295,595,0 3,614,123,675,0 107,128,239,182,0 161,200,387,350,0 170,20,294,63,0 192,131,358,222,0 229,517,568,675,0 254,36,398,146,0 295,0,542,48,0 314,409,565,544,0 407,43,580,177,0 409,147,685,371,0 532,0,969,207,0 581,495,895,675,0 590,361,838,493,0 653,211,849,375,0 773,115,1023,373,0 837,654,944,675,0 853,341,1023,468,0 908,474,1023,620,0 938,647,1023,675,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/c7d1b8d77ca90b86.jpg 110,34,346,299,0 627,43,876,288,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/c87e54bfeae26632.jpg 0,137,836,767,0 402,16,610,200,0 602,185,812,396,0 704,306,950,556,0 816,151,1017,378,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ca1ebd8d0189822e.jpg 2,4,763,1015,0 458,68,767,506,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ca9208c1fe502edb.jpg 410,233,685,538,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/caec3e08aeb9899d.jpg 0,0,1024,683,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/cfe6cb38a72a4397.jpg 0,0,623,686,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/d063738ddb1cd0b7.jpg 110,107,898,868,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/d0b70f114e7ded00.jpg 0,23,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/d5fd0e5c203daa2c.jpg 252,158,339,247,0 258,252,371,355,0 301,408,419,517,0 306,173,426,291,0 376,346,485,452,0 415,72,525,185,0 510,350,613,464,0 631,451,692,496,0 684,256,967,487,0 998,227,1023,321,0 1002,452,1023,529,0 1007,531,1023,579,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ddde9539f854c1d6.jpg 31,507,186,763,0 135,186,1023,766,0 359,0,1023,348,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/e4b07eeac5b18a45.jpg 0,0,1024,640,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/e8ae2612058aa6ee.jpg 537,585,629,668,0 598,650,683,745,0 599,555,687,640,0 670,600,758,697,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ec27531967696a52.jpg 0,0,1024,1024,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ecbbbe6e58738d5e.jpg 0,597,3996,6014,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ee82af18e4e464e6.jpg 0,0,1024,768,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ef69d47f9c156d8e.jpg 0,0,1024,681,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/f6c81c8d321c0f60.jpg 63,41,759,786,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/f7eb33eb65f8e3c0.jpg 307,95,644,560,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/fd8b8c4a44f6e485.jpg 185,275,532,617,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Apple/ff5fd9c3c624b7dc.jpg 0,70,877,789,0
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/0085a07ab001e27c.jpg 23,0,1008,768,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/00d7e7864bbb393f.jpg 251,204,466,477,1 377,0,642,246,1 421,352,699,575,1 578,72,885,426,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/02bb525e1127397c.jpg 135,266,592,704,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/0417970f2fddc62b.jpg 83,32,375,342,1 143,224,783,767,1 266,21,658,300,1 618,20,1023,448,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/0c8003e1cea85968.jpg 117,83,844,650,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/0e656d2824b32f45.jpg 0,0,1024,683,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/114456bfa90260a6.jpg 63,87,923,525,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/186cedc2546345e5.jpg 0,0,1024,768,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/215b1b7b97bf0120.jpg 143,117,889,727,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/259938cc23c6a128.jpg 161,486,882,764,1 216,314,764,513,1 451,69,1014,454,1 767,210,1023,545,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/3430c3b375ede35a.jpg 0,0,1024,768,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/37f1450a449c17b8.jpg 159,10,529,361,1 292,251,715,670,1 517,22,899,411,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/3d15f6ba3eb29d20.jpg 0,0,1024,1024,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/3eefd4f70411c4b6.jpg 0,66,1023,362,1 0,484,1023,724,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/48e12511ffc3e336.jpg 1,0,334,170,1 9,4,999,756,1 685,0,1023,251,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/4911128fbb1cc164.jpg 0,37,963,1024,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/4ef5006344041d22.jpg 80,49,681,522,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/53727d1a8d90974a.jpg 46,186,641,730,1 404,28,948,578,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/53ac2f214deac4a1.jpg 28,53,501,525,1 379,212,574,480,1 500,103,1023,562,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/577d5f25d6ae65cd.jpg 204,14,950,679,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/5c1c24180c96272f.jpg 0,218,137,592,1 0,1,503,212,1 0,520,569,766,1 150,111,678,586,1 611,1,1023,343,1 637,292,1023,767,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/60f4520d11aba3db.jpg 59,197,430,491,1 347,290,786,674,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/6432289be9c00e35.jpg 11,25,1024,686,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/6818afe6b9f7569b.jpg 0,70,244,327,1 1,398,342,734,1 191,170,531,431,1 315,1,625,191,1 327,720,816,1022,1 397,358,775,696,1 612,74,922,360,1 802,345,1022,716,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/686906eed2c6c03b.jpg 72,39,248,146,1 183,1,331,51,1 198,48,396,168,1 320,0,507,92,1 418,0,1021,296,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/7082ac4f4a29f390.jpg 101,34,878,649,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/709688f291b8dda3.jpg 96,70,851,736,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/7904fa8049789dc8.jpg 1,1,394,583,1 2,0,1022,1024,1 3,458,897,1020,1 398,3,1023,682,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/7cc8cd2ad0884913.jpg 0,0,767,865,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/8498bd6c886a8bee.jpg 119,31,707,614,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/893d55db1ea4fab7.jpg 78,0,1001,767,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/9211dd34b604c10a.jpg 552,396,1023,753,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/93aa41c300dd9eb9.jpg 245,41,777,621,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/9840be8c59cac83b.jpg 44,82,1024,653,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/a2e0a6987171833f.jpg 148,243,708,707,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/a2fae04d8953211e.jpg 0,891,475,1024,1 149,173,841,852,1 594,0,1024,138,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/a662af3ca988ce23.jpg 0,0,1024,683,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/a671ac2c03c54714.jpg 141,354,940,871,1 239,177,830,590,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/a84cd36608cb8665.jpg 100,53,931,720,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/b5e87ceb5488b190.jpg 134,372,716,767,1 604,254,1004,532,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/bda610f7d590d19c.jpg 44,388,243,581,1 239,349,427,543,1 417,343,580,494,1 588,332,717,478,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/bfd87141146e1268.jpg 235,131,958,881,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c555f3be21018157.jpg 59,0,1024,673,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c5d2085f8accd9c9.jpg 89,62,835,696,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c712260017419cc2.jpg 134,115,738,650,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c84805234292591e.jpg 128,108,913,656,1 268,0,802,134,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c8c411057b7f2e47.jpg 205,193,810,852,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/c9af5e3d26ef8bf0.jpg 0,1,566,361,1 341,167,928,680,1 448,1,681,53,1 823,494,1023,680,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/cbe46e9e005fb7b6.jpg 0,0,1024,768,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/d2a1824b207a636a.jpg 0,0,929,682,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/d2b891a3d42a3195.jpg 336,111,837,640,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/dda3d79386a4b10a.jpg 1,0,1024,683,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/e16d9f29e2462eea.jpg 689,524,1022,1022,1 896,202,1022,554,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/e545de839772ae75.jpg 0,0,1024,1024,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/eaa6c9823b0d8979.jpg 170,0,939,765,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/f520f27d198d1edd.jpg 0,0,1024,683,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Bagel/f60b675bb36e6fca.jpg 1,340,318,645,1 2,676,349,1022,1 30,96,337,367,1 393,112,656,369,1 398,394,697,687,1 443,699,767,1022,1
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/00423c885ef8e8b0.jpg 75,103,551,930,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/0b2e4b673751320f.jpg 0,0,1023,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/16af0e13b34bbe4d.jpg 0,530,206,889,2 0,260,311,520,2 168,571,397,893,2 242,865,599,1024,2 295,352,536,595,2 314,197,707,350,2 423,570,663,907,2 532,315,760,614,2 581,604,960,1018,2 589,493,832,686,2 702,294,988,628,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/1adc6a5947edc664.jpg 0,0,995,970,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/1f9212dccc4a85d2.jpg 0,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/20aed0110df54daa.jpg 19,620,207,758,2 20,876,216,1013,2 20,104,216,242,2 25,361,216,498,2 271,361,467,496,2 272,106,464,242,2 273,876,465,1013,2 274,622,468,756,2 523,363,716,498,2 524,102,716,242,2 524,882,716,1013,2 524,619,717,760,2 768,361,964,502,2 773,880,968,1015,2 774,618,965,755,2 774,103,966,240,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/2131e219ba0113d4.jpg 147,359,193,403,2 251,348,271,386,2 959,353,1024,446,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/2f0456842c786ff5.jpg 434,517,652,733,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/2fdf75881f68dd04.jpg 208,76,604,1017,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/3371fc25ea314f7c.jpg 28,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/3accf7a985ed31e1.jpg 0,94,975,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/3b3f0b25d84ca601.jpg 121,0,849,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/3c9eccf612faecda.jpg 0,0,771,768,2 400,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/40f151ffc7282ffb.jpg 61,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/41c9a881abbd32d6.jpg 0,0,679,1024,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/4449db3e28d372c6.jpg 0,0,288,270,2 146,0,930,715,2 613,0,929,396,2 805,493,1024,768,2 909,0,1024,498,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/486b803aab892883.jpg 53,77,968,572,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/4ad81d54074c54fb.jpg 0,0,1024,879,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/4d40949d16a2e58e.jpg 0,956,132,1024,2 219,726,764,1024,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/4ee0ff6dfabf8303.jpg 0,0,1024,713,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/4f491452bacb78ed.jpg 0,0,1024,683,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/52733befa1e1d3b3.jpg 0,0,1024,681,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/5451e8d4f723941f.jpg 0,0,1024,683,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/5b1dede5681d20b0.jpg 0,127,991,681,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/6588c7e400ff6f42.jpg 62,233,659,911,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/66bfc570ea73b569.jpg 233,202,395,448,2 387,389,588,560,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/6d14a9a434c67613.jpg 0,19,879,1024,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/7406393b12ce459b.jpg 341,154,677,409,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/740f5a396c81fd25.jpg 0,0,418,618,2 360,181,712,525,2 475,319,908,683,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/746a50b5315c307d.jpg 117,94,927,658,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/7484d0ecd2287a77.jpg 1,131,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/78e5c079332150e0.jpg 6,41,1024,682,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/81e6d9a65ba245a0.jpg 179,0,1024,678,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/826f141e2fd26cd8.jpg 33,84,976,761,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/839a08e17cdbd22b.jpg 156,190,307,578,2 260,152,395,513,2 354,167,486,538,2 421,216,579,638,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/86eb6825e774440b.jpg 0,0,103,356,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/89ed54d428adb296.jpg 822,623,3352,2083,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/8d33f21636811fa9.jpg 0,0,258,205,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/930a904fb26313b7.jpg 0,192,768,967,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/93acb2282738c45a.jpg 0,0,683,1024,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/963e7c4d5bf234d3.jpg 116,65,723,930,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/98b5fab7855ccb87.jpg 202,199,573,540,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/9e87adce6071d34c.jpg 92,11,1024,685,2 941,615,1024,685,2 991,583,1024,644,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/a0581d22b4a29127.jpg 0,28,1024,678,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/a1045dd098ed7530.jpg 83,240,221,380,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/a412464094a2294a.jpg 12,14,755,473,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/a5e04767fb8b0afa.jpg 36,51,581,670,2 487,75,903,618,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/aea6f6ca61b08dbb.jpg 0,0,1024,681,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/b179fb7f7e447f77.jpg 0,0,1024,974,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/b61b6991f496cce8.jpg 0,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/b6dfd27d287a5b88.jpg 0,718,186,871,2 0,550,191,708,2 33,438,202,600,2 211,595,538,719,2 459,230,561,365,2 502,55,678,145,2 585,705,670,940,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/c13956a12cfdfa10.jpg 10,133,740,654,2 133,285,715,805,2 278,309,891,879,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/c6d8e8a399a2b25c.jpg 0,13,1024,680,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/c7d1b8d77ca90b86.jpg 76,284,427,856,2 593,292,989,853,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/ca1fb6b7daeae8bf.jpg 0,0,1024,682,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/cdb93d490fad49b1.jpg 1,444,132,502,2 194,406,347,676,2 303,0,488,107,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/d015a467a92f7f80.jpg 106,0,973,683,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/db3de568c0408aaa.jpg 4,0,1023,300,2 59,364,1024,683,2 93,113,1024,431,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/e61bd0aca563c0c0.jpg 0,0,1024,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/e98de22e33c87e9b.jpg 0,268,177,373,2 231,487,549,622,2 368,290,791,402,2 495,143,855,232,2 549,525,871,658,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/ea253b194255032a.jpg 87,249,1005,652,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/eeb93d366d6c69e7.jpg 52,66,727,342,2 462,100,796,674,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/f0b6ea3487c300ba.jpg 0,356,242,766,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/f2232b59f5d57bbc.jpg 124,15,946,771,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/f530f65052ddf0ac.jpg 0,40,1024,605,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/f75b8c89185aed0e.jpg 13,326,110,361,2 342,234,667,401,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/f7fea5f364e984c0.jpg 45,134,192,990,2 152,147,259,819,2 176,117,410,960,2 221,125,448,749,2 228,81,635,894,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Banana/fbb70651159540e9.jpg 21,48,933,768,2
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/0902c27d391e4898.jpg 130,170,412,582,3 379,84,730,521,3 475,155,866,573,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/0a8ff071080cd3fb.jpg 44,276,930,957,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/0fbd116fd06286b0.jpg 109,4,1024,660,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/16efd359465a7e84.jpg 0,26,840,1002,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/1939a13eefa89971.jpg 64,21,584,347,3 174,279,881,589,3 608,71,937,439,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/1f2b90ab3498a224.jpg 25,35,971,1007,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/2646412c48fa2d2f.jpg 0,352,262,530,3 122,66,393,197,3 285,292,537,451,3 330,148,591,288,3 540,438,912,654,3 585,239,876,398,3 620,94,842,212,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/269cb2df447f4baa.jpg 45,0,686,384,3 467,63,1024,576,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/2b654d1eb49272c2.jpg 0,201,553,687,3 140,5,551,245,3 528,4,998,283,3 541,218,1024,703,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/36aacedff7138a55.jpg 0,34,178,204,3 0,165,297,418,3 0,375,459,680,3 270,49,552,237,3 388,183,692,402,3 589,338,940,605,3 600,27,828,175,3 742,110,1024,317,3 983,331,1024,449,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/3ad02019ef9f66b7.jpg 140,244,1023,879,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/3bc44b3fa0a0b852.jpg 0,233,1024,768,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/4c78ca8b9906664e.jpg 0,0,479,373,3 0,450,910,1024,3 110,114,834,440,3 539,1,910,380,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/5abba1adff0c6056.jpg 107,301,629,692,3 227,3,550,300,3 579,336,980,735,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/68a2e0f20f39615f.jpg 40,51,1024,680,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/68ce7d08c360d385.jpg 223,349,496,550,3 423,417,726,634,3 675,124,1024,421,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/85ec9925d7891e25.jpg 89,193,611,393,3 137,363,337,608,3 197,382,603,724,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/96360179ec2e5243.jpg 240,213,826,584,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/9866833a9e7e4bc3.jpg 190,0,896,471,3 234,329,775,614,3 282,524,741,768,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/9920c75fd705b2e2.jpg 0,101,492,420,3 48,227,855,696,3 423,73,797,275,3 703,121,1024,400,3 886,290,1024,672,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/9b90e039fab32b32.jpg 0,0,1024,701,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/b1f59dca2cf35973.jpg 0,0,1024,408,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/b945da29d0aa107a.jpg 12,348,398,655,3 533,632,697,967,3 628,151,1024,591,3 644,513,983,864,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/c9ab8b0ba0537bdf.jpg 0,162,716,685,3 450,152,745,284,3 599,230,930,614,3 920,307,1024,540,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/cabff2516ed135cb.jpg 306,158,899,575,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/d35107df18223a8d.jpg 753,0,1024,497,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/d49db751b826b5ed.jpg 80,39,983,768,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/d7cb7fd10eb36cf2.jpg 208,168,755,644,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/e5d0668bd2fc8558.jpg 66,0,1004,639,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/e7342aad98c495f5.jpg 6,17,1021,682,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/e97e27695c8cfb5d.jpg 6,62,475,417,3 202,284,677,675,3 438,3,848,295,3 610,88,1016,593,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Croissant/f0ee4078efce81a8.jpg 0,0,1024,683,3
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/0079ae4be5f70d5b.jpg 0,0,1024,687,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/04fda7c9d8971ec0.jpg 56,631,283,913,4 253,631,444,929,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/067a21d43b856f7a.jpg 82,274,197,494,4 205,295,417,532,4 369,583,421,671,4 437,611,635,734,4 535,519,623,569,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/086ad91410243048.jpg 1,12,936,767,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/11f75211a3fd8a27.jpg 75,269,428,620,4 464,82,821,436,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/15f4bb30342fc1cb.jpg 0,64,458,256,4 118,285,264,377,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1784091c129f8821.jpg 12,6,1024,1014,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/179d97b0d663dd60.jpg 0,383,14,409,4 0,359,23,383,4 0,426,28,468,4 29,433,59,477,4 50,314,92,345,4 69,469,173,550,4 101,280,205,375,4 174,30,274,159,4 184,0,206,20,4 189,242,215,269,4 252,347,274,378,4 265,404,285,433,4 293,408,321,444,4 312,551,345,585,4 312,354,422,447,4 361,494,397,530,4 371,471,411,503,4 393,564,423,591,4 462,76,504,116,4 544,123,565,150,4 563,97,594,129,4 577,398,730,462,4 680,654,707,680,4 688,221,722,251,4 727,158,763,195,4 770,436,798,472,4 822,609,844,642,4 826,318,865,352,4 830,106,862,145,4 859,101,896,131,4 906,140,1023,235,4 909,611,933,647,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1af39790f0957012.jpg 106,157,650,611,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1ba7b60fadf795b9.jpg 365,405,483,566,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1d5304d0daa58813.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1dfc784c3efb9ea8.jpg 79,0,942,681,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/1f0242924b3be5ed.jpg 131,23,953,683,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/23b275c7445ab277.jpg 191,1,1024,969,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/27f047378f01e09c.jpg 0,0,1024,681,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/2b8cb585918ebf61.jpg 1,215,179,531,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/2bdd74695f11ed53.jpg 63,116,248,324,4 133,161,581,588,4 135,623,298,847,4 318,590,412,884,4 402,577,623,861,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/30e5bf76da7b0e30.jpg 147,123,795,698,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/32c28ce58f98f979.jpg 0,0,390,197,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/34119ceeec0491a5.jpg 102,67,937,858,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/3d3bced7214fcc72.jpg 0,0,768,1024,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/3df22c09e5f130eb.jpg 0,635,226,679,4 101,226,275,350,4 147,62,323,199,4 328,167,367,191,4 409,198,565,356,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/3e81bd998d1e4f09.jpg 0,0,1024,685,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/3ea796fbbc23b3b9.jpg 1,70,390,248,4 2,232,656,767,4 17,141,475,283,4 604,672,674,767,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/43e1ac17fcbd97bf.jpg 0,0,1024,692,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/4b92997bd9794117.jpg 352,234,681,541,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/4cba4be100f6dcb4.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/4f6cf4f17e43b066.jpg 0,0,1024,854,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/4fccd35dbc851c55.jpg 222,0,1024,622,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/527cee7788fbb2bd.jpg 0,254,1023,681,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/5ba79ea4e55a5e68.jpg 45,85,520,560,4 471,289,976,666,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/608686b9c301ed3f.jpg 134,195,199,285,4 268,167,360,239,4 349,179,511,307,4 360,7,501,98,4 457,577,590,641,4 486,608,616,676,4 511,238,596,360,4 519,318,681,385,4 524,372,652,412,4 600,615,732,678,4 664,376,836,485,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/63c3715137ac75b3.jpg 127,323,188,461,4 161,304,283,485,4 252,257,525,537,4 501,0,1023,688,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/6471373a0dd4ba4b.jpg 118,53,850,530,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/652261ee5aaea6e2.jpg 0,172,56,310,4 249,214,750,632,4 840,92,1008,199,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/652acb4266a31500.jpg 135,87,683,683,4 576,121,816,530,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/684c90ac19079714.jpg 383,455,421,496,4 401,269,438,309,4 413,356,456,406,4 449,156,475,189,4 576,237,619,280,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/6941cec9b139577d.jpg 0,0,1024,639,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/6a7745c9f562a645.jpg 133,350,544,746,4 376,46,774,425,4 390,328,764,574,4 542,382,963,746,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/6d7f17b17e058de9.jpg 42,90,293,311,4 208,282,418,483,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/6f865bf28637606a.jpg 0,2,1024,808,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/70ba54de7ecf501a.jpg 192,162,803,596,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/7406be1840ba2afa.jpg 0,275,255,542,4 29,539,346,838,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/75e0688103f10177.jpg 548,24,1023,388,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/7e7d9f79169da85a.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/823bc455eadfc3a7.jpg 131,20,334,282,4 540,57,730,326,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/85ae5fb54bb713d0.jpg 160,454,546,826,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/8c9ac64aa721f7b9.jpg 159,412,331,588,4 341,357,569,570,4 574,360,780,570,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/9461fc0304883fe8.jpg 49,274,643,688,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/953b6c63eecc15f0.jpg 1,141,41,204,4 303,184,400,314,4 341,490,459,617,4 468,160,532,235,4 553,205,659,323,4 692,455,710,486,4 705,429,736,465,4 804,158,853,200,4 927,497,1001,596,4 970,254,1017,308,4 981,436,1023,518,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/96eea8fa32a0b737.jpg 2,2,573,661,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/970fdefa22c3c7f4.jpg 0,0,1024,680,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/98ecaa1c259e0e7e.jpg 59,265,144,336,4 108,631,182,677,4 199,273,281,339,4 245,634,319,677,4 373,624,442,676,4 494,231,567,298,4 499,634,571,677,4 622,621,694,676,4 636,276,719,341,4 745,625,813,676,4 775,275,857,341,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/a29e85514998dff0.jpg 122,327,384,570,4 232,103,481,353,4 335,443,582,620,4 593,101,775,290,4 626,319,901,597,4 645,72,798,198,4 756,190,915,283,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/a30427ad5446ad46.jpg 0,0,324,681,4 272,0,1024,682,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/a5ff695ef97c8bcd.jpg 68,215,955,953,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/a8ff8a7b30e2d957.jpg 1,94,515,688,4 419,136,724,559,4 666,175,904,491,4 840,176,1023,453,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/a911dc6e90f8957c.jpg 59,498,121,565,4 77,552,125,576,4 98,463,165,532,4 125,511,188,571,4 164,490,223,552,4 170,406,237,474,4 184,333,245,391,4 266,182,353,301,4 307,596,372,663,4 325,184,438,302,4 357,293,450,402,4 406,450,496,552,4 435,163,546,279,4 505,71,606,175,4 513,290,610,375,4 516,552,570,609,4 643,538,724,620,4 740,412,822,491,4 857,414,919,483,4 909,378,977,448,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/ac9c676ef4cc32b3.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/b3223a00e0583734.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/b6024eea086419a9.jpg 318,224,431,339,4 379,500,504,623,4 737,305,866,427,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/b7a7cdcdd39c215b.jpg 0,0,1024,609,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/b96617249dd370d7.jpg 616,196,1013,585,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/ba6cbff8a68b9f8b.jpg 3,89,560,640,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/bab7abffb798efe1.jpg 189,429,656,692,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/bc6dd7fc32ef0383.jpg 0,0,1024,768,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c066e1782a77c5d6.jpg 279,168,1392,1146,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c2bd9f6ccb459de1.jpg 747,130,848,222,4 795,206,898,306,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c6148c24a4f1ccb1.jpg 0,189,231,402,4 455,117,790,403,4 700,78,973,355,4 739,219,861,386,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c7c9462338ef0d60.jpg 175,233,266,324,4 231,1,316,86,4 393,322,460,413,4 512,308,577,515,4 616,354,945,672,4 771,195,1023,469,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c7da67ea4840319d.jpg 23,23,738,748,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/c995b9c29582c005.jpg 333,232,699,629,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/ce8ea9d97b044ef0.jpg 381,162,1024,744,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/cf2db30d704d71e4.jpg 522,152,993,639,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d1110b5eb76d4b0e.jpg 0,90,35,130,4 72,123,239,255,4 326,87,400,170,4 469,586,525,619,4 473,617,542,672,4 497,272,527,323,4 501,154,546,203,4 509,561,564,610,4 566,179,633,250,4 574,339,711,473,4 576,251,631,320,4 591,448,692,520,4 604,568,738,691,4 711,433,814,527,4 730,534,862,660,4 799,352,897,442,4 845,710,934,767,4 853,534,896,616,4 867,207,979,318,4 890,491,1007,594,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d209a309781b3787.jpg 80,99,494,560,4 500,192,919,565,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d360fdab3b4168ff.jpg 381,529,551,638,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d4e8af9f1b0f39d6.jpg 0,0,1024,682,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d4f4fc583a769fde.jpg 230,13,678,238,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d7c1a82fa7d3a95d.jpg 301,193,666,546,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/d9f8ccfdf09032d9.jpg 0,275,467,766,4 0,0,662,354,4 324,247,1023,767,4 520,0,812,298,4 741,72,1023,470,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/db6d17e7e723745c.jpg 47,82,953,559,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/dd787d52f48ac68f.jpg 0,0,289,369,4 16,486,95,563,4 118,553,174,609,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/e09dca7b5bfa5d3c.jpg 0,220,52,333,4 0,437,74,550,4 128,352,208,435,4 178,388,319,482,4 181,473,291,601,4 237,340,280,368,4 274,54,329,102,4 274,447,392,579,4 278,560,316,606,4 279,84,396,208,4 283,571,428,683,4 341,253,419,323,4 426,174,527,268,4 439,279,539,321,4 466,554,522,606,4 472,364,498,405,4 491,428,632,537,4 507,183,590,285,4 536,91,630,220,4 586,185,689,299,4 624,88,709,194,4 673,552,762,618,4 679,299,813,430,4 733,429,767,465,4 741,216,760,256,4 765,249,890,381,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/e4260c4bae5def5a.jpg 7,0,94,62,4 19,58,91,100,4 24,124,98,201,4 61,176,163,246,4 185,341,272,434,4 193,55,278,122,4 252,294,344,387,4 272,76,335,169,4 325,81,411,176,4 330,326,415,415,4 332,7,386,41,4 332,407,436,510,4 362,588,445,627,4 427,435,519,506,4 437,175,525,265,4 477,513,560,591,4 643,307,701,366,4 652,235,736,336,4 751,420,786,482,4 768,742,790,765,4 768,265,861,356,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/e5bd89ff02fa63c1.jpg 0,242,19,279,4 0,413,21,446,4 0,512,27,545,4 5,279,27,294,4 7,193,42,222,4 8,98,33,127,4 17,666,49,703,4 22,63,58,89,4 30,500,68,537,4 49,550,89,594,4 79,731,110,762,4 92,5,124,35,4 109,233,135,254,4 135,457,169,485,4 144,339,183,371,4 160,64,192,98,4 168,139,204,171,4 171,691,201,725,4 175,186,201,214,4 178,658,197,693,4 209,299,248,336,4 209,347,234,366,4 220,556,239,579,4 225,418,247,437,4 227,9,260,36,4 231,517,270,557,4 247,586,265,619,4 255,45,271,72,4 284,70,315,102,4 306,101,334,127,4 314,160,340,192,4 316,353,338,371,4 322,611,353,642,4 326,0,361,18,4 331,402,420,508,4 344,289,379,318,4 392,78,423,109,4 429,183,457,214,4 429,297,464,335,4 435,419,465,452,4 436,576,473,609,4 441,346,473,382,4 473,347,508,385,4 506,3,531,32,4 517,135,538,167,4 557,183,587,215,4 565,671,579,695,4 574,148,607,184,4 602,342,637,372,4 618,45,636,60,4 635,4,662,29,4 641,728,672,749,4 642,56,678,99,4 654,503,686,541,4 676,106,717,142,4 676,180,711,216,4 680,584,711,618,4 704,447,735,481,4 724,490,742,509,4 742,475,776,505,4 748,157,781,194,4 753,33,771,50,4 783,77,821,108,4 791,636,826,675,4 793,252,824,283,4 802,361,837,396,4 805,152,824,173,4 809,548,838,578,4 817,207,828,232,4 826,264,860,290,4 847,405,871,440,4 849,173,877,201,4 849,728,884,765,4 859,690,885,720,4 943,402,973,434,4 945,6,978,38,4 955,710,1000,752,4 970,243,997,268,4 972,46,988,62,4 973,373,1006,399,4 989,569,1022,604,4 1005,394,1023,405,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/e618788dbca6a2d3.jpg 612,338,858,468,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/eca6ac1bc445f79a.jpg 0,428,58,524,4 26,411,106,471,4 73,576,266,679,4 128,16,203,106,4 233,75,339,174,4 269,173,331,230,4 302,219,411,292,4 378,351,495,443,4 395,20,431,61,4 409,10,517,112,4 472,361,648,530,4 485,7,554,106,4 501,122,744,351,4 771,544,889,682,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f2345a8c69d56f42.jpg 0,55,171,239,4 1,1,99,67,4 46,542,241,682,4 160,97,355,289,4 251,1,446,129,4 398,268,563,427,4 432,0,607,146,4 487,526,618,658,4 571,566,687,682,4 678,202,731,283,4 690,430,856,555,4 709,255,859,378,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f43115339d185eb8.jpg 336,205,569,444,4 509,0,667,130,4 611,215,761,426,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f4a5dd9c39530b7e.jpg 0,0,1024,1024,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f6fc367de8909256.jpg 0,159,110,321,4 0,315,160,453,4 90,209,267,338,4 111,276,263,443,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f72a9b15efb01216.jpg 124,245,860,661,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f75b5ea7ad38bda4.jpg 0,19,1005,1024,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f868c27b6d8a11b8.jpg 0,79,675,826,4 567,0,1024,448,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f8a3970b24df8aab.jpg 0,313,498,753,4 499,350,991,763,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/f8bcbf2066e6458f.jpg 0,267,159,617,4 11,545,373,684,4 29,0,424,340,4 271,295,602,631,4 421,21,726,330,4 511,517,804,684,4 641,218,901,491,4 682,0,931,80,4 777,434,970,684,4 846,34,1023,316,4 946,317,1023,538,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/fc4d2aaf5919e624.jpg 93,114,645,656,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/fd45a12d0e84d77a.jpg 69,120,963,756,4
+C:\Users\Timmy\Desktop\TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test\Orange/feb546bb21cec831.jpg 303,0,1024,683,4
