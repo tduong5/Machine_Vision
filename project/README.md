@@ -19,8 +19,8 @@ This project was implemented by following tutorials from [Python Lessons](pyless
       - Finally, convert the XML file to YOLO file structure from the same folder `tools/` and run the `XML_to_YOLOv3.py` script. 
       - Once it finishes the conversion, the files: `Dataset_names.txt`, `Dataset_train.txt`, and `Dataset_test.txt` will be located in the `model_data` folder.
 5. To train the program, configure the `configs.py` in `yolov3/`.
-    - Change the `TRAIN_CLASSES` to "./model_data/Dataset_names.txt" and `TRAIN_ANNOT_PATH` to "./model_data/Dataset_train.txt".
-    - Change the `TRAIN_ANNOT_PATH` to "./model_data/Dataset_test.txt".
+    - Change the `TRAIN_CLASSES` to "./model_data/Dataset_names.txt" and `TRAIN_ANNOT_PATH` to `"./model_data/Dataset_train.txt"`.
+    - Change the `TRAIN_ANNOT_PATH` to `"./model_data/Dataset_test.txt"`.
     - The `BATCH_SIZE` was halved to prevent a training error on my PC. 
 6. Run `python train.py` to train the images.
     - To look at the training process: `tensorboard --logdir=log`. 
