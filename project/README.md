@@ -1,6 +1,7 @@
 # Smart Cashier System 
 This project was implemented by following tutorials from [Python Lessons](pylessons.com). For the program to work, it requires the user to:
 1. Create a database: `create_facedatabase.py`
+   - To look inside the database, use [DB Browser for SQLite](https://sqlitebrowser.org)
 2. Run `face_enrollment.py` to capture the user's face with a user ID and initial balance of 100 to be stored into the database. The images are stored in `/custom_dataset/`.
 3. Train the program to recognize the user's face by running `face_enroll_trainer.py`. It will then export a .yml file to `/recognizer/`.
 4. Preparing the Image dataset for Custom Object Detection
