@@ -22,7 +22,6 @@ X_test = sc_X.transform(X_test)
 from sklearn.svm import SVC # support vector classifier
 #*******Missing line here**********************
 #*******Missing line here**********************
-
 classifier = SVC(kernel='linear')
 classifier.fit(X_train, y_train)
 
