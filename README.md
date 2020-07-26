@@ -13,6 +13,6 @@
 
 - Assignment 4
   - Support Vector Machine to identify what users would most likely purchase a product   
-  ! [SVM] (/assignment4/plot.png)
+  ![SVM](/assignment4/plot.png)
   
 - Project: Facial Recognition and Object Detection for Smart Cashier System
