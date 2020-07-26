@@ -1,6 +1,7 @@
+# Smart Cashier System 
 This project was implemented by following tutorials from [Python Lessons](pylessons.com). For the program to work, it requires the user to:
 1. Create a database: `create_facedatabase.py`
-2. Run `face_enrollment.py` to capture the user's face with a user ID to be stored into the database. The images are stored in `/custom_dataset/`.
+2. Run `face_enrollment.py` to capture the user's face with a user ID and initial balance of 100 to be stored into the database. The images are stored in `/custom_dataset/`.
 3. Train the program to recognize the user's face by running `face_enroll_trainer.py`. It will then export a .yml file to `/recognizer/`.
 4. Preparing the Image dataset for Custom Object Detection
    - Use [LabelImg](github.com/tzutalin/labelimg)
@@ -24,5 +25,6 @@ This project was implemented by following tutorials from [Python Lessons](pyless
 6. Run `python train.py` to train the images.
     - To look at the training process: `tensorboard --logdir=log`. 
     - To look at the tensorboard again, e.g. if you close the program and want to re-check it: `tensorboard --logdir=./log`
-7. Run `main.py` to now detect the face and objects using the webcam.     
+7. Run `main.py` to now detect the face and objects using the webcam. 
+   - Showing one of the image class from the OIDv4 ToolKit into the webcam will subtract 1 from the user's balance.  
 
