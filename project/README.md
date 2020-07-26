@@ -26,6 +26,6 @@ This project was implemented by following tutorials from [Python Lessons](pyless
 6. Run `python train.py` to train the images.
     - To look at the training process: `tensorboard --logdir=log`. 
     - To look at the tensorboard again, e.g. if you close the program and want to re-check it: `tensorboard --logdir=./log`
-7. Run `main.py` to now detect the face and objects using the webcam. 
+7. Run `main.py` to detect the face and objects using the webcam. 
+   - The `yolov3/utils.py` file was **modified** further with OpenCV and SQLite to develop the Smart Cashier System. 
    - Showing one of the image class from the OIDv4 ToolKit into the webcam will subtract 1 from the user's balance.  
-
