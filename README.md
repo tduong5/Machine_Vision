@@ -1,7 +1,7 @@
 # Machine Vision: Assignments and Project
 
 - Assignment 1
-  - Used OpenCV for face detection wtih a webcam
+  - Used OpenCV for face detection with a webcam
 
 - Assignment 2
   - Predict customer churn, or customer turnover at a bank using ANN
